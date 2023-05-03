@@ -1,3 +1,3 @@
-Repositório dos meus exercícios feitos com o curso em vídeo de fundamentos em python 
+Repositório dos meus exercícios feitos com o Curso em Vídeo (Guanabara) de fundamentos em python 
 
 Status: em desenvolvimento
