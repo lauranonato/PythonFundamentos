@@ -1,1 +1,2 @@
-✨Repositório dos meus exercícios feitos com o curso online "Python 3" da Fatec Ourinhos ✨
+Repositório dos meus exercícios feitos com o curso em vídeo de fundamentos em python 
+Status: em desenvolvimento
